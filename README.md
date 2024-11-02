@@ -1,7 +1,7 @@
 # Game/Unity Programmer
 
 ## Summary
-I have 5 years of experience making 3D (NSFW and SFW) games with Unity. I published them at Itch.io and Steam, for PC and (recently) WebGL.
+I have 5 years of experience making 3D (NSFW and SFW) games with Unity. I published them at Itch.io and Steam, for PC and WebGL.
 
 
 ## Skills and abilities
@@ -31,9 +31,9 @@ jams I joined.
 
 
 ## Projects:
-
-**Project 1**
-- Type:
-- Genres:
-- Platforms:
-- Tasks:
+**Slutty Sluts Panic**
+- Description:  Slutty Sluts Panic is a Qix-like action puzzle arcade game. Players have to draw into an area to clear the level and reveal nude images. 
+- Platforms: PC
+- Development:
+  
+- Store page: [Slutty Sluts Panic on Steam](https://store.steampowered.com/app/1775850/Slutty_Sluts_Panic/)
