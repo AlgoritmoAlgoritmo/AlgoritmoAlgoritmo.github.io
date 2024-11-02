@@ -22,7 +22,7 @@ I have 5 years of experience making 3D (NSFW and SFW) games with Unity. I publis
 
 
 ## Relevant experience
-I've coding and releasing 3D NSFW games as a solo developer since 2019.
+I've been coding and releasing 3D NSFW games as a solo developer since 2019.
 Most of them are for PC, and recently I made 2 of them for WebGL thanks to the
 jams I joined.
 
