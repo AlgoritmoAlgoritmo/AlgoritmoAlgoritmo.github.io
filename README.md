@@ -13,7 +13,7 @@ I have 5 years of experience making games with Unity. I published them at Itch.i
 - Using Unity Profiler and optimize game performance
 - Version control with Git, GitLab and GitHub
 - Backend programming with Java and SQL
-- Making 3D props and making 3D animations using Blender
+- Making 3D props and 3D animations using Blender
 
 
 ## Relevant experience
@@ -21,10 +21,12 @@ I've coding and releasing 3D NSFW games as a solo developer since 2019.
 Most of them are for PC, and recently I made 2 of them for WebGL thanks to the
 jams I joined.
 
-- Here's my Itch.io profile: https://irisgamedev.itch.io/
-- Here's my Steam profile: https://store.steampowered.com/developer/irisGameDev
+- Here's my Itch.io profile: (https://irisgamedev.itch.io/)
+- Here's my Steam profile: (https://store.steampowered.com/developer/irisGameDev)
+
 
 ## Projects:
+
 **Project 1**
 - Genres:
 - Platforms:
