@@ -21,8 +21,8 @@ I've coding and releasing 3D NSFW games as a solo developer since 2019.
 Most of them are for PC, and recently I made 2 of them for WebGL thanks to the
 jams I joined.
 
-- Here's my Itch.io profile: [](https://irisgamedev.itch.io/)
-- Here's my Steam profile: [](https://store.steampowered.com/developer/irisGameDev)
+- Here's my Itch.io profile: [irisgamedev.itch.io](https://irisgamedev.itch.io/)
+- Here's my Steam profile: [store.steampowered.com/developer/irisGameDev](https://store.steampowered.com/developer/irisGameDev)
 
 
 ## Projects:
