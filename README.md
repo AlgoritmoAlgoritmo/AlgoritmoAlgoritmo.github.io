@@ -1,14 +1,12 @@
-# Iris Bermudez
+# Game/Unity Programmer
 
-## Game/Unity Programmer
-
-### Summary
+## Summary
 I have 5 years of experience making games with Unity and publishing them at Itch.io and Steam, for PC and (recently) WebGL.
 
-### Skills and abilities
+## Skills and abilities
 
 
-### Relevant experience
+## Relevant experience
 
 
 ### Projects:
