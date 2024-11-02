@@ -1,19 +1,24 @@
 # Game/Unity Programmer
 
 ## Summary
-I have 5 years of experience making games with Unity. I published them at Itch.io and Steam, for PC and (recently) WebGL.
+I have 5 years of experience making 3D (NSFW and SFW) games with Unity. I published them at Itch.io and Steam, for PC and (recently) WebGL.
 
 
 ## Skills and abilities
+**Excellent at:**
 - Gameplay programming with C# and Unity
-- Writing unit tests with NUnit and Unity Test Framework
 - Self-learning whatever I need to solve development problems
 - Writing clean/readable code
 - Debugging and bug fixing
+
+**Proficient at:**
 - Using Unity Profiler and optimize game performance
 - Version control with Git, GitLab and GitHub
+- Writing unit tests with NUnit and Unity Test Framework
+  
+**Familiar with:**
 - Backend programming with Java and SQL
-- Making 3D props and 3D animations using Blender
+- Making 3D props and 3D animations with Blender
 
 
 ## Relevant experience
@@ -28,6 +33,7 @@ jams I joined.
 ## Projects:
 
 **Project 1**
+- Type:
 - Genres:
 - Platforms:
-- Tasks
+- Tasks:
