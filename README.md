@@ -35,5 +35,17 @@ jams I joined.
 - Description:  Slutty Sluts Panic is a Qix-like action puzzle arcade game. Players have to draw into an area to clear the level and reveal nude images. 
 - Platforms: PC
 - Development:
-  
+
 - Store page: [Slutty Sluts Panic on Steam](https://store.steampowered.com/app/1775850/Slutty_Sluts_Panic/)
+
+![ss_063d8db3a492bc8d3838e7c1b7f68af91d87dc5b 600x338](https://github.com/user-attachments/assets/cb903a2e-f4e6-4810-8284-f0da2d75a85e)
+
+
+
+
+**ERO Shooter**
+- Description: 
+- Platforms: PC
+- Development:
+
+- Store page: [ERO Shooter on Steam](https://store.steampowered.com/app/1445090/ERO_Shooter/)
