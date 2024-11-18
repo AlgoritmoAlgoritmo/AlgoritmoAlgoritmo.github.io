@@ -49,3 +49,9 @@ jams I joined.
 - Development:
 
 - Store page: [ERO Shooter on Steam](https://store.steampowered.com/app/1445090/ERO_Shooter/)
+
+![ES_00](assets/images/ES/ES_00.jpg)
+
+![ES_02](assets/images/ES/ES_02.jpg)
+
+![ES_03](assets/images/ES/ES_03.jpg)
