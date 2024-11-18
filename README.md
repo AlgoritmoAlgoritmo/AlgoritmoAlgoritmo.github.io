@@ -38,9 +38,9 @@ jams I joined.
 
 - Store page: [Slutty Sluts Panic on Steam](https://store.steampowered.com/app/1775850/Slutty_Sluts_Panic/)
 
-![ss_063d8db3a492bc8d3838e7c1b7f68af91d87dc5b 600x338](https://github.com/user-attachments/assets/cb903a2e-f4e6-4810-8284-f0da2d75a85e)
+![SSP_00](assets/images/SSP/SSP_00.jpg)
 
-
+![SSP_01](assets/images/SSP/SSP_01.jpg)
 
 
 **ERO Shooter**
