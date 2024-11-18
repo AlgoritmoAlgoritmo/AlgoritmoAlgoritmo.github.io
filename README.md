@@ -38,7 +38,7 @@ jams I joined.
 
 - Store page: [Slutty Sluts Panic on Steam](https://store.steampowered.com/app/1775850/Slutty_Sluts_Panic/)
 
-![SSP_00](assets/images/SSP/SSP_00.jpg)
+![SS_00](assets/images/SSP/SS_00.jpg)
 
 ![SSP_01](assets/images/SSP/SSP_01.jpg)
 
