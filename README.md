@@ -32,6 +32,7 @@ jams I joined.
 
 ## Projects:
 **Slutty Sluts Panic**
+
   Small NSFW Qix-like game for PC.
   
   The player has to uncover the underneath image by moving through the level while avoiding enemies.
