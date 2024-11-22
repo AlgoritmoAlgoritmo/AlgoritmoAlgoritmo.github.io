@@ -33,14 +33,14 @@ jams I joined.
 ## Projects:
 **Slutty Sluts Panic**
 
-  Small NSFW Qix-like game for PC.
+  It's a small NSFW Qix-like game for PC, published on November 2021.
   
   The player has to uncover the underneath image by moving through the level while avoiding enemies.
   
   I wrote all the code myself (persistence system, unlockable item system, image gallery, the game loop, game settings, etc.); except by the effects system (which is the MM Feedbacks package available on Unity Store).
   Regarding to art, I used Daz3D for the character/background renders with 3rd party models. I also made all of the graphic design work, except by the fonts.
   
-  My favorite part was to figure out how to make the image-reveal mechanic. I ended up by placing a plane to block the unlockable image view, and spawning quads with a stencil shader material filling the cleared areas to reveal the unlockable image.
+  My favorite part was to figure out how to make the image-reveal mechanic. I solved it by placing a plane to block the unlockable image view, and spawning quads with a stencil shader material, filling the cleared areas to reveal the unlockable image.
   
 - Store page: [Slutty Sluts Panic on Steam](https://store.steampowered.com/app/1775850/Slutty_Sluts_Panic/)
 
@@ -50,9 +50,13 @@ jams I joined.
 
 
 **ERO Shooter**
-- Description: 
-- Platforms: PC
-- Development:
+
+  It's a NSFW top-down bullet hell/date simulator, published on May 2021.
+
+  The player has to clear shooter levels in order to progress in the story.
+
+  I wrote all of the code (enemy 
+  
 
 - Store page: [ERO Shooter on Steam](https://store.steampowered.com/app/1445090/ERO_Shooter/)
 
