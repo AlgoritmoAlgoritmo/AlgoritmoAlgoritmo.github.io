@@ -55,8 +55,10 @@ jams I joined.
 
   The player has to clear shooter levels in order to progress in the story.
 
-  I wrote all of the code (enemy 
-  
+  Again, I wrote all of the code ( dialogue system, combat system, persistence system, the game loop, game settings, etc.); except by the effects system (which is the MM Feedbacks package available on Unity Store).
+  I also made the characters rigging and animations; modeled the characters accessories, hairstyles and clothes, and some of the props. I've set up the cinematics, did all of the UI graphics (except by the fonts, the main menu BG and life bar).
+
+  I loved to work in the whole top-down-shooter game loop in general, but the bullet instancing optimization was the funnest part.
 
 - Store page: [ERO Shooter on Steam](https://store.steampowered.com/app/1445090/ERO_Shooter/)
 
