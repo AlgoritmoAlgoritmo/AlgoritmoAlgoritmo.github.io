@@ -1,23 +1,23 @@
 # Game/Unity Programmer
 
 ## Summary
-I have 5 years of experience making 3D (NSFW and SFW) games with Unity. I published them at Itch.io and Steam, for PC and WebGL.
+I'm a Unity/C# programmer with 5 years of experience and 9 games published on Itch.io and Steam. I've worked on FPS, solitaire, simulation, bullet hell and Qix-like games, for PC and WebGL.
 
 
 ## Skills and abilities
 **Excellent at:**
-- Gameplay programming with C# and Unity
-- Self-learning whatever I need to solve development problems
-- Writing clean/readable code
-- Debugging and bug fixing
+- Coding full games using C# and Unity
+- Writing unit tests using NUnit and Unity Test Framework
+- Version control using Git
+- Implementation of design patterns (MVC, Object Pooling, Observer, etc.)
+- Following SOLID and KISS principles
 
 **Proficient at:**
-- Using Unity Profiler and optimize game performance
-- Version control with Git, GitLab and GitHub
-- Writing unit tests with NUnit and Unity Test Framework
+- Performance optimization (batching,occlusion culling, LOD, etc.)
   
 **Familiar with:**
-- Backend programming with Java and SQL
+- Java and backend programming
+- Database modeling, creation and maintanance using SQL with PostgreSQL
 - Making 3D props and 3D animations with Blender
 
 
